@@ -40,6 +40,13 @@ Flutter stable sürümü kullanılmıştır.
 - `lib/main.dart` → uygulamanın ana kodu
 - `assets/products.json` → ürün verileri
 - `assets/images/` → ürün görselleri
+ ## Ekran Görüntüleri
+
+### Ana Sayfa
+![Home](home.jpeg)
+
+### Sepet Sayfası
+![Cart](cart.jpeg)
 
 ## Uygulama Ekranları
 
