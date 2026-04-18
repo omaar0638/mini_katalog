@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Laptop",
+    "price": "25000 TL",
+    "image": "assets/images/laptop.jpg",
+    "description": "Intel Core i7 işlemci, RTX 4080 ekran kartı, 16GB RAM, 1TB SSD depolama ve 16 inç yüksek çözünürlüklü ekran ile güçlü performans sunan profesyonel laptop modelidir. Oyun, tasarım ve günlük kullanım için uygundur."
+  },
+  {
+    "name": "Telefon",
+    "price": "15000 TL",
+    "image": "assets/images/phone.jpg",
+    "description": "6.7 inç AMOLED ekran, 128GB depolama, yüksek hızlı işlemci, çift arka kamera sistemi, uzun pil ömrü ve 5G desteği ile günlük kullanım için ideal akıllı telefon modelidir. Modern tasarımı ve güçlü performansı ile dikkat çeker."
+  },
+  {
+    "name": "Kulaklık",
+    "price": "2000 TL",
+    "image": "assets/images/headphone.jpg",
+    "description": "Bluetooth 5.3 bağlantı, aktif gürültü engelleme özelliği, yüksek kaliteli stereo ses deneyimi ve uzun pil ömrü sunan kablosuz kulaklık modelidir. Müzik dinleme, görüşme ve günlük kullanım için uygundur."
+  },
+  {
+    "name": "Saat",
+    "price": "3500 TL",
+    "image": "assets/images/watch.jpg",
+    "description": "AMOLED ekran, kalp atış sensörü, adım sayar, uyku takibi, bildirim desteği ve suya dayanıklılık özelliklerine sahip akıllı saat modelidir. Sağlık takibi ve günlük kullanım için şık ve kullanışlı bir seçenektir."
+  },
+  {
+    "name": "Tablet",
+    "price": "8000 TL",
+    "image": "assets/images/tablet.jpg",
+    "description": "10.5 inç geniş ekran, 8GB RAM, 256GB depolama alanı, hafif tasarım ve güçlü batarya performansı ile eğitim, video izleme ve internette gezinme için uygun tablet modelidir. Taşınabilir yapısı ile kullanım kolaylığı sağlar."
+  },
+  {
+    "name": "Kamera",
+    "price": "12000 TL",
+    "image": "assets/images/camera.jpg",
+    "description": "24MP yüksek çözünürlüklü sensör, 4K video çekim desteği, optik zoom ve profesyonel çekim modları ile kaliteli fotoğraf ve video deneyimi sunan kamera modelidir. Hem amatör hem profesyonel kullanım için uygundur."
+  }
+]
